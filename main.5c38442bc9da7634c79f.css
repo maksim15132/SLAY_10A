@@ -129,7 +129,7 @@
     cursor: pointer;
     background: none;
     padding: 0;
-    background: #ff6a13;
+    background: #ff3814;
     color: #fff0e5;
     padding: calc(.9375rem - 2px) 1.25rem;
     transition: color .3s ease-in-out;
@@ -171,7 +171,7 @@
     background: #141419;
     color: #fff0e5;
     padding: calc(.9375rem - 2px) 1.25rem;
-    border: 2px solid #ff6a13;
+    border: 2px solid #ff3814;
     transition: color .3s ease-in-out;
     text-decoration: none
 }
@@ -208,7 +208,7 @@
     background: none;
     padding: 0;
     text-decoration: none;
-    color: #ff6a13;
+    color: #ff3814;
     padding: .9375rem 0;
     position: relative;
     transition: color .3s ease-in-out;
@@ -252,7 +252,7 @@
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .button-icon::before {
@@ -262,7 +262,7 @@
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .button-icon:hover {
@@ -285,7 +285,7 @@
     border: none;
     background: rgba(0,0,0,0);
     text-align: center;
-    color: #ff6a13;
+    color: #ff3814;
     transition: color .3s ease-in-out
 }
 
@@ -345,7 +345,7 @@
 }
 
 .input-default input:focus {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .input-default input:focus::placeholder {
@@ -353,7 +353,7 @@
 }
 
 .input-default input:hover {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .input-default input:disabled {
@@ -411,7 +411,7 @@
     width: 100%;
     height: .125rem;
     transition: width .3s ease-in-out;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .input-checkbox {
@@ -435,7 +435,7 @@
     width: 100%;
     height: .125rem;
     transition: width .3s ease-in-out;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .input-checkbox input {
@@ -539,7 +539,7 @@
     transform: translateY(-50%);
     width: 80rem;
     height: 100rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -561,7 +561,7 @@
     transform: translateY(-50%);
     width: 80rem;
     height: 100rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -794,7 +794,7 @@
 }
 
 .header-nav__link:hover {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .header-nav__link {
@@ -860,7 +860,7 @@
 }
 
 .header-socials__link-text:hover {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .header-socials__link-text {
@@ -922,7 +922,7 @@
 }
 
 .header-socials__link:hover svg path {
-    fill: #ff6a13
+    fill: #ff3814
 }
 
 .header-mobile__button {
@@ -973,7 +973,7 @@
     left: -22rem;
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -988,7 +988,7 @@
     right: -23rem;
     width: 30rem;
     height: 30rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -1029,7 +1029,7 @@
 
 .header-mobile__popup-nav a {
     text-decoration: none;
-    color: #ff6a13;
+    color: #ff3814;
     font-family: "ViaodaLibre";
     font-size: 1.875rem;
     font-weight: 400;
@@ -1069,7 +1069,7 @@
 }
 
 .header-mobile__popup-socials-link:hover svg path {
-    fill: #ff6a13
+    fill: #ff3814
 }
 
 .header-mobile__popup__video {
@@ -1127,7 +1127,7 @@
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .jury-notice::before {
@@ -1137,7 +1137,7 @@
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 header.scrolled .jury-notice {
@@ -1165,7 +1165,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: -1;
@@ -1197,7 +1197,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: -1;
@@ -1250,7 +1250,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 2px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .footer__wrap .button-frame {
@@ -1378,7 +1378,7 @@ header.scrolled .jury-notice {
 }
 
 .footer__nav-link:hover {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .footer__nav-link {
@@ -1414,7 +1414,7 @@ header.scrolled .jury-notice {
 }
 
 .footer__socials-link:hover svg path {
-    fill: #ff6a13
+    fill: #ff3814
 }
 
 .footer__socials {
@@ -1528,7 +1528,7 @@ header.scrolled .jury-notice {
 }
 
 .footer-copyright__link:hover {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .footer__logo {
@@ -1606,7 +1606,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 2px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 .modal__content::after {
@@ -1616,7 +1616,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 2px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 .modal__content--content {
@@ -1736,7 +1736,7 @@ header.scrolled .jury-notice {
 }
 
 .modal__title--orange {
-    color: #ff6a13;
+    color: #ff3814;
     font-family: "ViaodaLibre";
     font-size: 2rem;
     font-weight: 400;
@@ -1953,7 +1953,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: -1;
@@ -1972,7 +1972,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: -1;
@@ -2654,7 +2654,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     margin-bottom: .9375rem;
     text-align: center
 }
@@ -2772,7 +2772,7 @@ header.scrolled .jury-notice {
 }
 
 .block-about__actions .swiper-pagination-current {
-    color: #ff6a13
+    color: #ff3814
 }
 
 @media(max-width: 1600px) {
@@ -2843,7 +2843,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     text-align: center;
     margin-bottom: 1rem
 }
@@ -2990,7 +2990,7 @@ header.scrolled .jury-notice {
     transform: translate(-50%, -50%);
     width: 36rem;
     height: 36rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -3165,7 +3165,7 @@ header.scrolled .jury-notice {
 }
 
 .block-nominations__actions .swiper-pagination-current {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .block-nominations__item-text {
@@ -3228,7 +3228,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     text-align: center;
     margin-bottom: 1rem
 }
@@ -3427,7 +3427,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     margin-bottom: 1rem
 }
 
@@ -3540,7 +3540,7 @@ header.scrolled .jury-notice {
     transform: translate(-50%, -50%);
     width: 70rem;
     height: 40rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -3600,7 +3600,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     margin-bottom: 1rem
 }
 
@@ -3694,7 +3694,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: -1;
@@ -3724,7 +3724,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -3834,7 +3834,7 @@ header.scrolled .jury-notice {
     transform: translate(-50%, -50%) translateZ(0);
     width: 30rem;
     height: 30rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     filter: blur(60px);
     z-index: 0;
@@ -3913,7 +3913,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13
+    color: #ff3814
 }
 
 @media(max-width: 1440px) {
@@ -3948,7 +3948,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .block-faq__item:last-of-type::before {
@@ -3958,7 +3958,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: .125rem;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #FF6A13 0%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 0%, rgba(20, 20, 25, 0) 100%)
 }
 
 .block-faq__item--active .block-faq__item-icon {
@@ -4197,7 +4197,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -4233,7 +4233,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     mix-blend-mode: screen;
     pointer-events: none;
     filter: blur(60px);
@@ -4354,7 +4354,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 1px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 .block-timer__wrap::after {
@@ -4364,7 +4364,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 1px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 @media(max-width: 1440px) {
@@ -4386,7 +4386,7 @@ header.scrolled .jury-notice {
     line-height: 95%;
     text-transform: uppercase;
     text-align: center;
-    color: #ff6a13;
+    color: #ff3814;
     padding: 0 4rem
 }
 
@@ -4568,7 +4568,7 @@ header.scrolled .jury-notice {
     font-size: 7.5rem;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13
+    color: #ff3814
 }
 
 @media(max-width: 768px) {
@@ -4632,7 +4632,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     text-align: center;
     margin-bottom: 1rem
 }
@@ -4983,7 +4983,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -5005,7 +5005,7 @@ header.scrolled .jury-notice {
     transform: translateY(-50%);
     width: 20rem;
     height: 80rem;
-    background: radial-gradient(circle, #ff6a13 0%, transparent 70%);
+    background: radial-gradient(circle, #ff3814 0%, transparent 70%);
     pointer-events: none;
     mix-blend-mode: screen;
     filter: blur(60px);
@@ -5097,11 +5097,11 @@ header.scrolled .jury-notice {
 }
 
 .block-nominations-actual__actions .swiper-pagination-current {
-    color: #ff6a13
+    color: #ff3814
 }
 
 .block-nominations-actual__item-link {
-    color: #ff6a13;
+    color: #ff3814;
     font-family: "Roboto";
     font-size: 1.5rem;
     line-height: 130%;
@@ -5131,7 +5131,7 @@ header.scrolled .jury-notice {
     font-weight: 400;
     line-height: 95%;
     text-transform: uppercase;
-    color: #ff6a13;
+    color: #ff3814;
     text-align: center;
     margin-bottom: 3.75rem
 }
@@ -5411,7 +5411,7 @@ header.scrolled .jury-notice {
     font-size: 1.5rem;
     line-height: 130%;
     font-weight: 400;
-    color: #ff6a13;
+    color: #ff3814;
     display: flex;
     align-items: center;
     gap: .125rem
@@ -5432,7 +5432,7 @@ header.scrolled .jury-notice {
 }
 
 .block-winners__item-prompt {
-    color: #ff6a13;
+    color: #ff3814;
     font-family: "Roboto";
     font-size: 1.5rem;
     line-height: 130%;
@@ -5531,7 +5531,7 @@ header.scrolled .jury-notice {
 }
 
 .block-winners__actions .swiper-pagination-current {
-    color: #ff6a13
+    color: #ff3814
 }
 
 @media(max-width: 1024px) {
@@ -5658,7 +5658,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 2px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 .block-translation__wrap::after {
@@ -5668,7 +5668,7 @@ header.scrolled .jury-notice {
     left: 0;
     width: 100%;
     height: 2px;
-    background: radial-gradient(50% 54950% at 50% -0.01%, #ff6a13 66.83%, rgba(20, 20, 25, 0) 100%)
+    background: radial-gradient(50% 54950% at 50% -0.01%, #ff3814 66.83%, rgba(20, 20, 25, 0) 100%)
 }
 
 .block-translation__button {
